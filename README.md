@@ -1,5 +1,5 @@
 # MessengerAnalysis
-Friend wants to visualize their messenger to when was their ups and downs, I thought it was cool and wanted to see what else could be explored.
+Friend wants to visualize his messages with people in messenger to when was their ups and downs, I thought it was cool and wanted to see what else could be explored.
 
 ## setup
 ``` bash
